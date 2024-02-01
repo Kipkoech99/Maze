@@ -1,8 +1,6 @@
 # Maze
-# Introduction
-Everything you need to know about this project is listed in this [article](https://bigzee550.medium.com/the-maze-project-3e2524d78081).
 # Installation
-* ```git clone https://github.com/SpacyFranky/Maze_v1.0.git```
+* ```git clone https://github.com/Kipkoech99/Maze.git```
 # Usage
 * Execute ```./maze``` or type ```make run``` to open the game
 * Use up and down arrow keys to move farward and back
